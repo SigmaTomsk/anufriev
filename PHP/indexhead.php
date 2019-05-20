@@ -5,7 +5,7 @@
 </head>
 <body>
 <div class="head">
-<p class="p1">Все ОС в Windows с 1985-2019</p>
+<p class="p1">Все ОС в Windows с 1985-2019 (utf-8)</p>
 <p class="p2">Вы узнаете о:</p>
 <div class="ims">
 <div class="im1">
@@ -27,7 +27,7 @@
 </div>
 </div>
 <!-- Меню для ОС !-->
-<p class="p1">В данном меню, вам представлен список всех ОС.</p>
+<p class="p12">В данном меню, вам представлен список всех ОС.</p>
 <ul class="ul1">
 <li><a href="windows1.php">Windows 1.0</a></li>
 <li><a href="windows2.php">Windows 2.0</a></li>
